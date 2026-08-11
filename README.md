@@ -9,7 +9,7 @@
 ### The repository contains five key documents covering the entire testing lifecycle.
 ### The project includes:
 
-  <a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/50129b07c2cd08da26339d52775b3a062b88751b/Requirement_Analysis%20.pdff"> Requirement_Analysis </a> - This document contains a detailed functional and non-functional analysis of the web application's user scenarios. It defines the scope, actors, functional requirements, non-functional requirements, assumptions and constraints, and open questions and risks.
+  <a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/50129b07c2cd08da26339d52775b3a062b88751b/Requirement_Analysis%20.pdf"> Requirement_Analysis </a> - This document contains a detailed functional and non-functional analysis of the web application's user scenarios. It defines the scope, actors, functional requirements, non-functional requirements, assumptions and constraints, and open questions and risks.
 <br>
 </br>
   <a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/50129b07c2cd08da26339d52775b3a062b88751b/Test_Plan.pdf"> Test Plan </a> - The test plan outlines the strategy, scope, and organization of testing activities based on the requirements from the first document. It covers: objectives, test scope, approach and methods, test data and environment, resources, and risk assessment.
