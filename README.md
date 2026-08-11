@@ -1,0 +1,1 @@
+# e-commerce-independent-qa-testing
