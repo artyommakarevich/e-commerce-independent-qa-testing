@@ -18,7 +18,8 @@
   <a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/50129b07c2cd08da26339d52775b3a062b88751b/Check-list_WebApp.pdf"> Checklist </a> - The checklist is structured by functional blocks: authentication, catalog, product page, shopping cart, payment, order tracking, returns, user account, reviews, and non-functional aspects.
   <br>
 </br>
-<a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/50129b07c2cd08da26339d52775b3a062b88751b/Test-cases_WebApp.pdf"> Tesr Cases </a> - The document contains detailed test cases with step-by-step instructions and expected results. It presents the key positive and negative scenarios covering all functional areas, in accordance with the requirements of the test plan. 
+<a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/50129b07c2cd08da26339d52775b3a062b88751b/Test-cases_WebApp.pdf"> Test Cases </a> - The document contains detailed test cases with step-by-step instructions and expected results. It presents the key positive and negative scenarios covering all functional areas, in accordance with the requirements of the test plan. 
 <br>
 </br>
+<a href = "">Bug Report </a>- The bug report was created in Jira, exported, and formatted using Notion AI.
 <a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing/blob/71cebd727adb9df05acebe73cdf5cc67e7d38e48/Test_Progress_Report_WebApp.pdf"> Test Progress Report </a> - Final report on the work performed
